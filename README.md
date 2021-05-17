@@ -1,2 +1,4 @@
 # TesteGitHUB
- Primeiro repositorio versionado de Git e GitHub
+ Primeiro repositório versionado de Git e GitHub
+
+ Repositório criado durante aula ao vivo.
